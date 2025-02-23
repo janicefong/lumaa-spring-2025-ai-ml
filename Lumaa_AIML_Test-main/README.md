@@ -56,3 +56,8 @@ Results:  <br/>
 
 Short Demo Video: <br/>
 https://drive.google.com/file/d/1iw_Z1JY8zahGeuSFamnPZXa7TFPoD3aW/view?usp=sharing
+
+Monthly salary expectations: <br/>
+I'm open to discussing compensation based on the specific responsibilities. <br/>
+For a part-time position, I'm targeting $2,000 to $3,000 monthly. <br/>
+For a full-time position, I'm targeting $6,000 to $10,000 monthly.
