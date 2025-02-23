@@ -51,7 +51,8 @@ Running:  <br/>
 6. click 'Recommend' button and see the result <br/>
 
 Results:  <br/>
-![screencapture-localhost-8501-2025-02-22-20_26_17](https://github.com/user-attachments/assets/b8179d31-b54e-4833-8557-b3a88b882afd)
+![Result](https://github.com/user-attachments/assets/953f78b3-8cb5-4128-8fd3-4aae68c7a807)
+
 
 Short Demo Video: <br/>
 https://drive.google.com/file/d/1iw_Z1JY8zahGeuSFamnPZXa7TFPoD3aW/view?usp=sharing
